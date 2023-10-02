@@ -8,135 +8,142 @@ This Repo holds presets of the waline emojis. PRs that adds new emojis are welco
 
 You can use set `emojis` options with an array containing following links
 
-此 Repo 存放 Waline 的 Emoji 预设。我们欢迎你提交 PR 以新增其他 Emoji。
+        此 Repo 存放 Waline 的 Emoji 预设。我们欢迎你提交 PR 以新增其他 Emoji。
 
 你可以通过设置 `emojis` 选项为包含下列链接的数组来使用这些 Emoji。
 
 ## Available Emojis / 可用的 Emoji
 
+- Coolapk
+
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/coolapk
+```
+
+
 - Alus
 
-  ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/alus
-  ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/alus
+```
 
 - Bilibili
 
-  ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/bilibili
-  ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/bilibili
+```
 
 - Bilibili Yellow face
 
-  ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/bmoji
-  ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/bmoji
+```
 
 - QQ
 
-  ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/qq
-  ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/qq
+```
 
 - Tieba
 
-  ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tieba
-  ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tieba
+```
 
 - Twemoji
 
-  - Emoji:
+- Emoji:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-emoji
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-emoji
+```
 
-  <details>
-  <summary>Others</summary>
+<details>
+<summary>Others</summary>
 
-  - Full: (Not recommand)
+- Full: (Not recommand)
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw
+```
 
-  - People:
+- People:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-people
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-people
+```
 
-  - Body:
+- Body:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-body
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-body
+```
 
-  - Flag:
+- Flag:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-flag
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-flag
+```
 
-  - Food:
+- Food:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-food
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-food
+```
 
-  - Natural:
+- Natural:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-natural
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-natural
+```
 
-  - Object:
+- Object:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-object
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-object
+```
 
-  - Sport:
+- Sport:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-sport
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-sport
+```
 
-  - Symbol:
+- Symbol:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-symbol
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-symbol
+```
 
-  - Time:
+- Time:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-time
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-time
+```
 
-  - Travel:
+- Travel:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-travel
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-travel
+```
 
-  - Weather:
+- Weather:
 
-    ```
-    https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/tw-weather
-    ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-weather
+```
 
-  </details>
+</details>
 
 - Weibo
 
-  ```
-  https://cdn.jsdelivr.net/gh/walinejs/emojis@1.1.0/weibo
-  ```
+```
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/weibo
+```
 
 ## Thanks / 感谢
 
-The alus, bilibili, qq, tieba and weibo emojis are copied from [MiniValine](https://github.com/MiniValine). Great thanks :heart: for it!
+        The alus, bilibili, qq, tieba and weibo emojis are copied from [MiniValine](https://github.com/MiniValine). Great thanks :heart: for it!
 
 此项目内的 alus、bilibili、qq、tieba、weibo Emoji 复制自 [MiniValine](https://github.com/MiniValine)。 十分感谢这些 :heart:！
