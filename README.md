@@ -17,38 +17,38 @@ You can use set `emojis` options with an array containing following links
 - Coolapk
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/coolapk
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/coolapk
 ```
 
 
 - Alus
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/alus
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/alus
 ```
 
 - Bilibili
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/bilibili
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/bilibili
 ```
 
 - Bilibili Yellow face
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/bmoji
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/bmoji
 ```
 
 - QQ
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/qq
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/qq
 ```
 
 - Tieba
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tieba
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tieba
 ```
 
 - Twemoji
@@ -56,7 +56,7 @@ https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tieba
 - Emoji:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-emoji
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-emoji
 ```
 
 <details>
@@ -65,73 +65,73 @@ https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-emoji
 - Full: (Not recommand)
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.12/tw
 ```
 
 - People:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-people
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-people
 ```
 
 - Body:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-body
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-body
 ```
 
 - Flag:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-flag
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-flag
 ```
 
 - Food:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-food
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.12/tw-food
 ```
 
 - Natural:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-natural
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-natural
 ```
 
 - Object:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-object
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-object
 ```
 
 - Sport:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-sport
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-sport
 ```
 
 - Symbol:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-symbol
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-symbol
 ```
 
 - Time:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-time
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-time
 ```
 
 - Travel:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-travel
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-travel
 ```
 
 - Weather:
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-weather
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/tw-weather
 ```
 
 </details>
@@ -139,7 +139,7 @@ https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/tw-weather
 - Weibo
 
 ```
-https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.1/weibo
+https://cdn.jsdelivr.net/gh/morannlx/emojis@1.2.2/weibo
 ```
 
 ## Thanks / 感谢
